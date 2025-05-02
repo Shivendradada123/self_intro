@@ -1,0 +1,44 @@
+yle>
+        *{
+            font-family: Arial, Helvetica, sans-serif;
+        }
+        nav{
+            display: flex;
+            font-size: xx-large;
+
+            
+            
+        }
+    a{
+        margin: 100px ;
+     
+    }
+    header{
+        text-align: center;
+    }
+
+#para{
+    border: 2px solid whitesmoke;
+    height: 20vh;
+    padding: 30px;
+}
+
+#skills{
+    border: 2px solid whitesmoke;
+    height: 20vh;
+    padding: 30px; 
+}
+.dada{
+    border: 2px solid whitesmoke;
+    height: 20vh;
+    padding: 30px;
+}
+h3{
+    color: green;
+}
+h2{
+    color: chocolate;
+}
+#lala{
+    box-shadow: 15px 10px 5px black;
+}
